@@ -8,7 +8,7 @@ You’ll go through **six key stages**:
 
 1.  Ideation — get or refine your idea
     
-2.  Research — validate and explore your concept
+2.  Research — validate and explore your concept.
     
 3.  PRD — define your product requirements
     
